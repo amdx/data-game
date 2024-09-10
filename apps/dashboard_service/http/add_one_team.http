@@ -1,0 +1,6 @@
+POST http://localhost:6384/api/v1/teams
+Content-Type: application/json
+
+{
+  "name": "foo the bar"
+}

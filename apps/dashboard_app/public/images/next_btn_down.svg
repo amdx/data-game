@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="208" height="208" viewBox="0 0 208 208">
+  <defs>
+    <filter id="card_number_btn_up" x="10" y="10" width="188" height="188" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="next_btn_down" transform="translate(-1816 -1760)">
+    <rect id="bounding_box" width="208" height="208" transform="translate(1816 1760)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 1816, 1760)" filter="url(#card_number_btn_up)">
+      <circle id="card_number_btn_up-2" data-name="card_number_btn_up" cx="88" cy="88" r="88" transform="translate(16 16)" fill="#bfd4ff"/>
+    </g>
+    <g id="back_icon">
+      <line id="Linie_10" data-name="Linie 10" x2="96.8" transform="translate(1867.677 1863.5)" fill="none" stroke="#121314" stroke-linecap="round" stroke-width="3"/>
+      <g id="Gruppe_132" data-name="Gruppe 132">
+        <line id="Linie_11" data-name="Linie 11" x1="41.818" y2="41.818" transform="translate(1922.659 1863.5)" fill="none" stroke="#121314" stroke-linecap="round" stroke-width="3"/>
+        <line id="Linie_12" data-name="Linie 12" x1="41.818" y1="41.818" transform="translate(1922.659 1821.682)" fill="none" stroke="#121314" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

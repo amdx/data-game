@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="104" viewBox="0 0 112 104">
+  <defs>
+    <filter id="card_number_btn_up" x="12.25" y="8.25" width="87.5" height="87.5" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.25" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="send_data_btn_up" transform="translate(-1720 -992)">
+    <rect id="bounding_box" width="112" height="104" transform="translate(1720 992)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 1720, 992)" filter="url(#card_number_btn_up)">
+      <circle id="card_number_btn_up-2" data-name="card_number_btn_up" cx="40" cy="40" r="40" transform="translate(16 12)" fill="#2c2e30"/>
+    </g>
+    <g id="icon_download">
+      <path id="Pfad_2" data-name="Pfad 2" d="M1783,1035h5.267a3.513,3.513,0,0,1,3.733,3.241v18.518a3.513,3.513,0,0,1-3.733,3.241h-24.534a3.513,3.513,0,0,1-3.733-3.241v-18.518a3.513,3.513,0,0,1,3.733-3.241H1769" fill="none" stroke="#bfd4ff" stroke-width="2"/>
+      <g id="Gruppe_26" data-name="Gruppe 26">
+        <line id="Linie_4" data-name="Linie 4" y1="24" transform="translate(1776 1023)" fill="none" stroke="#bfd4ff" stroke-linecap="round" stroke-width="2"/>
+        <line id="Linie_5" data-name="Linie 5" x2="7.08" y2="7.08" transform="translate(1776 1022.675)" fill="none" stroke="#bfd4ff" stroke-linecap="round" stroke-width="2"/>
+        <line id="Linie_6" data-name="Linie 6" x1="7.08" y2="7.08" transform="translate(1768.92 1022.675)" fill="none" stroke="#bfd4ff" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

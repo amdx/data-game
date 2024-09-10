@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="208" height="208" viewBox="0 0 208 208">
+  <defs>
+    <filter id="card_number_btn_up" x="10" y="10" width="188" height="188" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cancel_btn_down" transform="translate(-1576 -1040)">
+    <rect id="bounding_box" width="208" height="208" transform="translate(1576 1040)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 1576, 1040)" filter="url(#card_number_btn_up)">
+      <circle id="card_number_btn_up-2" data-name="card_number_btn_up" cx="88" cy="88" r="88" transform="translate(16 16)" fill="#bfd4ff"/>
+    </g>
+    <g id="cross_icon">
+      <line id="Linie_22" data-name="Linie 22" x1="67.692" y2="67.692" transform="translate(1646.154 1110.154)" fill="none" stroke="#121314" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Linie_23" data-name="Linie 23" x2="67.692" y2="67.692" transform="translate(1646.154 1110.154)" fill="none" stroke="#121314" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

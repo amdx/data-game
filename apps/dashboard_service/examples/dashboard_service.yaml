@@ -1,0 +1,7 @@
+db_url: sqlite:///./workshop.db
+data_path: examples/data.csv
+max_team_count: 5
+max_card_count: 8
+verify_ssl: false
+log_levels:
+  - root:info

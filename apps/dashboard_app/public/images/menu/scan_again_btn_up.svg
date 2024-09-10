@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="scan_again_btn_up" transform="translate(-152 -2064)">
+    <circle id="button_bg" cx="32" cy="32" r="32" transform="translate(152 2064)" fill="#27292b"/>
+    <g id="circle" transform="translate(168 2080)" fill="none" stroke="#bfd4ff" stroke-width="1">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+  </g>
+</svg>

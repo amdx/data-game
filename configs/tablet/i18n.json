@@ -1,0 +1,62 @@
+{
+  "de": {
+    "common": {
+      "fullscreen_prompt": "Aktiviere den Vollbildmodus, um die App im Vollbild zu nutzen.",
+      "cancel": "ABBRECHEN",
+      "ok": "OK",
+      "error": "Folgender Fehler ist aufgetreten, versucht es noch mal:",
+      "next_label": "WEITER"
+    },
+    "standby_view": {
+      "text": "GLEICH\nGEHT'S LOS!"
+    },
+    "welcome_view": {
+      "welcome": "WILLKOMMEN IM\nDATA GAME!",
+      "text_001": "Hier könnt ihr die Zukunft der Mobilität gestalten. Wählt spannende Aktionskarten und legt fest, wie die Welt sich fortbewegen soll.\n\nHinter jeder Karte liegen Daten. Aus den Daten entstehen Diagramme. Die Diagramme zeigen, was eure Aktionen bewirkt haben.",
+      "text_002": "Hier könnt ihr Maßnahmen zum Erhalt der Artenvielfalt wählen. Entscheidet euch für spannende Aktionskarten und schützt damit unsere Biodiversität.\n\nHinter jeder Karte liegen Daten. Aus den Daten entstehen Diagramme. Die Diagramme zeigen, was eure Aktionen bewirkt haben.",
+      "text_003": "Hier könnt ihr ein Energiesystem für die Zukunft gestalten. Wählt spannende Aktionskarten und legt fest, wie wir in Zukunft Energie gewinnen.\n\nHinter jeder Karte liegen Daten. Aus den Daten entstehen Diagramme. Die Diagramme zeigen, was eure Aktionen bewirkt haben."
+    },
+    "team_name_view": {
+      "group_name": "GRUPPENNAME",
+      "text": "Ein gutes Team braucht einen guten Namen.\nWie nennt ihr euch?",
+      "name_prompt": "Möchtet ihr diesen Namen für euer Team verwenden?",
+      "your_team": "Ihr seid Gruppe",
+      "logged_in": "Ihr seid im Data Dashboard eingecheckt. Wartet kurz, bis alle ihre Namen eingeloggt haben."
+    },
+    "scan_intro_view": {
+      "headline": "SPIELABLAUF",
+      "sub_headline": "Los geht's!",
+      "next_button_label": "WEITER",
+      "text_1": "Sucht jetzt aus dem Kartenset die vier Superheroes aus.\nPlatziert diese oben im Spielfeld.\nZu jedem Hero könnt ihr zwei Aktionskarten wählen.\nWelche bringen eure Mission voran?",
+      "text_2": "Alle Karten platziert?\nScannt nun die QR-Codes eurer Aktionskarten nacheinander mit dem Tablet ein.",
+      "text_3": "Checkt eure Datenvisuali-\nsierungen. Was für Diagramme könnt ihr erstellen? \nWählt euren Favoriten aus. \nSchickt das Ergebnis ans Data Dashboard. Fertig!",
+      "button_label": "WEITER"
+    },
+    "scan_view": {
+      "headline": "KARTEN SCANNEN",
+      "sub_headline": "Erfasst alle QR-Codes mit dem Tablet.",
+      "scan_button_label": "CODE SCANNEN",
+      "info": "INFO"
+    },
+    "graph_view": {
+      "hint": "Alle Werte sind in Prozent angegeben.",
+      "bar_chart": "BALKENDIAGRAMM",
+      "web_chart": "NETZDIAGRAMM",
+      "donut_chart": "DONUT-DIAGRAMM",
+      "polar_chart": "POLARKREISDIAGRAMM",
+      "time_category": "Dauer",
+      "cost_category": "Kosten",
+      "efficiency_category": "Wirkung",
+      "time_overall": "DAUER GESAMT",
+      "cost_overall": "KOSTEN GESAMT",
+      "efficiency_overall": "WIRKUNG GESAMT",
+      "send_label": "DATEN SENDEN",
+      "card_delete_label": "KARTE ENTFERNEN",
+      "send_prompt": "Möchtet ihr eure Daten unwiderruflich versenden?"
+    },
+    "evaluation_view": {
+      "yeah": "YEAH! MISSION ERFÜLLT!",
+      "meet": "Trefft euch jetzt am Data Dashboard mit den anderen Gruppen."
+    }
+  }
+}

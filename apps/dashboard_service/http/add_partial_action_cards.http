@@ -1,0 +1,19 @@
+@teamId = f2e7b2fd-01ed-421b-ae93-98c8e7f31dd1
+
+POST http://localhost:6384/api/v1/teams/{{teamId}}/action-cards
+Content-Type: application/json
+
+{
+  "action_cards": [
+    {
+      "card_id": "001_004_005"
+    },
+    {
+      "card_id": "001_001_002"
+    },
+    {
+      "card_id": "001_001_003"
+    }
+  ]
+}
+###

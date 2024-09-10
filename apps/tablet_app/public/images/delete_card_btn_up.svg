@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="104" viewBox="0 0 112 104">
+  <defs>
+    <filter id="card_number_btn_up" x="8.25" y="4.25" width="95.5" height="95.5" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.25" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="delete_card_btn_up" transform="translate(-944 -980)">
+    <rect id="bounding_box" width="112" height="104" transform="translate(944 980)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 944, 980)" filter="url(#card_number_btn_up)">
+      <circle id="card_number_btn_up-2" data-name="card_number_btn_up" cx="44" cy="44" r="44" transform="translate(12 8)" fill="#2c2e30"/>
+    </g>
+    <g id="delete_icon">
+      <path id="Pfad_4" data-name="Pfad 4" d="M1018.849,1018.026h-8l-3.769-5.1a4.183,4.183,0,0,0-3.33-1.691h-7.5a4.19,4.19,0,0,0-3.356,1.691l-3.769,5.1H981.15a1,1,0,0,0,0,2h2.186l2.6,27.6h0a5.651,5.651,0,0,0,5.651,5.14h16.82a5.651,5.651,0,0,0,5.651-5.14l2.605-27.6h2.184a1,1,0,0,0,0-2Zm-24.349-3.911a2.181,2.181,0,0,1,1.744-.88h7.5a2.189,2.189,0,0,1,1.756.88l2.89,3.911H991.615Zm17.57,33.321a3.662,3.662,0,0,1-3.66,3.33H991.59a3.662,3.662,0,0,1-3.66-3.33l-2.584-27.41h29.308Z" fill="#bfd4ff"/>
+      <path id="Pfad_5" data-name="Pfad 5" d="M994.955,1027.394a1,1,0,0,0-1,1v13.321a1,1,0,0,0,2,0v-13.321a1,1,0,0,0-1-1Z" fill="#bfd4ff"/>
+      <path id="Pfad_6" data-name="Pfad 6" d="M1005.045,1027.394a1,1,0,0,0-1,1v13.321a1,1,0,0,0,2,0v-13.321a1,1,0,0,0-1-1Z" fill="#bfd4ff"/>
+    </g>
+  </g>
+</svg>

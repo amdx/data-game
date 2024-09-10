@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="208" height="208" viewBox="0 0 208 208">
+  <defs>
+    <filter id="card_number_btn_up" x="10" y="10" width="188" height="188" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="confirm_btn_down" transform="translate(-2056 -1040)">
+    <rect id="bounding_box" width="208" height="208" transform="translate(2056 1040)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 2056, 1040)" filter="url(#card_number_btn_up)">
+      <circle id="card_number_btn_up-2" data-name="card_number_btn_up" cx="88" cy="88" r="88" transform="translate(16 16)" fill="#bfd4ff"/>
+    </g>
+    <path id="hook" d="M2117.293,1156.148l35.323,25.664,43.662-75.624" fill="none" stroke="#121314" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

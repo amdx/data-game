@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="terminate_game_btn_up" transform="translate(-80 -2064)">
+    <circle id="button_bg" cx="32" cy="32" r="32" transform="translate(80 2064)" fill="#27292b"/>
+    <g id="cross_icon">
+      <line id="cross" y1="26" x2="26" transform="translate(99 2083)" fill="none" stroke="#bfd4ff" stroke-linecap="round" stroke-width="1.149"/>
+      <line id="cross-2" data-name="cross" x1="26" y1="26" transform="translate(99 2083)" fill="none" stroke="#bfd4ff" stroke-linecap="round" stroke-width="1.149"/>
+    </g>
+  </g>
+</svg>

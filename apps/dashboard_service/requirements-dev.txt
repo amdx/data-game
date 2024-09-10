@@ -1,0 +1,6 @@
+black
+mypy
+pytest
+pytest-httpx
+pytest-mock
+ruff

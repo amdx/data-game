@@ -1,0 +1,105 @@
+{
+  "de": {
+    "charts": {
+      "types": {
+        "bar": "BALKENDIAGRAMM",
+        "doughnut": "DONUT-DIAGRAMM",
+        "web": "NETZDIAGRAMM",
+        "polar": "POLARKREISDIAGRAMM"
+      },
+      "categories": {
+        "time": "Dauer",
+        "cost": "Kosten",
+        "efficiency": "Wirkung"
+      },
+      "overall": {
+        "time": "DAUER GESAMT",
+        "cost": "KOSTEN GESAMT",
+        "efficiency": "WIRKUNG GESAMT"
+      },
+      "annotation": "Alle Werte sind\nin Prozent angegeben."
+    },
+    "scenarios": {
+      "001": {
+        "theme": "MOBILITÄT",
+        "welcome": "Heute geht es um das Thema\nMobilität. Gestaltet den Verkehr der\nZukunft nachhaltig mit.\n\nBringt euer Wissen über Daten dabei auf ein neues Level!"
+      },
+      "002": {
+        "theme": "ARTENVIELFALT",
+        "welcome": "Heute geht es um das Thema Klima und Energie. Könnt ihr eine nachhaltige Energieversorgung schaffen?\n\nBringt euer Wissen über Daten dabei auf ein neues Level!"
+      },
+      "003": {
+        "theme": "KLIMA & ENERGIE",
+        "welcome": "Heute geht es um das Thema\nArtenvielfalt. Enwickelt Maßnahmen, um sie zu schützen.\n\nBringt euer Wissen über Daten dabei auf ein neues Level!"
+      }
+    },
+    "welcome": {
+      "title": "WILLKOMMEN IM DATA GAME!",
+      "modal": {
+        "title": "KÜNSTLICHE INTELLIGENZ",
+        "text": "Das Data Game ist eine Co-Kreation von Mensch und Maschine.\nEs wurde in Zusammenarbeit mit KI-Technologien von OpenAI und Midjourney entwickelt: Einige der Inhalte wurden mithilfe künstlicher Intelligenz generiert. Es erhebt keinen Anspruch auf Wissenschaftlichkeit.\n\nViel Spaß damit!"
+      }
+    },
+    "instructions": {
+      "title": "INFO",
+      "subtitle": "So funktioniert das Spiel:",
+      "text1": "Bildet Gruppen. Jede Gruppe nimmt sich ein Karten-Set und ein Tablet.",
+      "text2": "Wählt acht Aktionskarten aus, mit denen ihr eure Mission erfüllen könnt. Scannt mit dem Tablet die QR-Codes auf den Karten ein.",
+      "text3": "Checkt die Datenvisualisierungen und schickt eure Ergebnisse dann an das Data Dashboard. Alles klar?"
+    },
+    "heroes": {
+      "title": "SUPERHEROES",
+      "subtitle": "Diese Figuren unterstützen euch auf eurer Mission",
+      "text": "Zu jedem Superhero gehören acht Aktionskarten. Auf diesen Karten stehen Möglichkeiten zur Gestaltung der Mobilität. Dieses sind realistische bis sehr weit in die Zukunft gedachte Maßnahmen.",
+      "modal": {
+        "001": {
+          "1": "Flora Power verwandelt Städte in grüne Oasen. Sie steht für umweltfreundliche Verkehrslösungen, pflanzt Grünstreifen entlang von Fahrbahnen und fördert die Nutzung von Wasserstoffautos. Sie baut Solarstraßen – und Straßen, die Regenwasser effizient absorbieren. Zudem verwendet sie klimafreundlichen Asphalt! Sie arbeitet echt für und mit der Natur.",
+          "2": "Tom Techno ist der Boss der Technologie und ein Meister der Innovation! Mit seiner Kreativität erschafft er autonome Shuttles, smarten Verkehr und coole Drohnen-Lieferservices. Immer am Puls der Zeit, macht er mit Hyperloops und cleverer Vernetzung unsere Zukunft richtig spannend.",
+          "3": "Maxi Structure ist ein echter Tausendsassa. Er revolutioniert nachhaltig die Infrastruktur, indem er selbstheilende Straßen baut, den öffentlichen Nahverkehr mit magnetischen Schwebebahnen erweitert und E-Ladestationen flächendeckend einrichtet. Als Visionär nimmt er alle Herausforderungen an, um die Mobilität zu transformieren.",
+          "4": "Freya Fahrt ist die Superheldin der Community! Sie schafft “Hubs”, an denen Menschen zusammenkommen und Mobilitätslösungen finden können. Sie setzt auf Fahrgemeinschaft und Sharing-Modelle und nutzt KI, um allen in der Gesellschaft volle Teilhabe zu ermöglichen. Freie Fahrt in eine vernetzte und gerechte Zukunft!"
+        },
+        "002": {
+          "1": "Justin Biber, der Hüter des Waldes, denkt groß: Er pflanzt Wälder im Himmel und schafft Schutzgebiete auf dem Boden. Er züchtet klimaresistente Bäume und nutzt Technologie, um die Natur zu bewahren. Ein echter Umwelt-Held, der nicht nur aufpasst, sondern tatkräftig für den Planeten einsteht!",
+          "2": "Tom Techno ist Meister der Technologie. Innovativ und aufgeschlossen, schützt er die Artenvielfalt mit seinen Erfindungen. Er setzt auf Drohnen, KI und 3D-Druck. Nachhaltigkeit ist sein Ziel, Technik sein Werkzeug. Tom ist ein kluger Visionär.",
+          "3": "Wasser Wally, die unermüdliche Wächterin des Wassers, schützt das größte zusammenhängende Ökosystem der Erde – die Meere, die 70% der Erdoberfläche bedecken. Sie errichtet innovative Fischaufstiegshilfen, filtert Mikroplastik, repariert Korallenriffe und fördert die Gesundheit aller Gewässer, um biologische Vielfalt und Ressourcen zu sichern.",
+          "4": "Queen Bee ist noch jung, aber schon Superheldin. Ihr Ziel: Der Erhalt der Artenvielfalt. Sie nutzt natürliche Düngemittel und innovative Genetik, steuert Drohnen zur Überwachung der Natur und fördert die Ökosysteme. Eine beflügelte Vermittlerin zwischen Natur und Technologie!"
+        },
+        "003": {
+          "1": "Flora Power, die Superheldin der Ökologie, revolutioniert mit ihrem grünen Daumen das Land. Sie weiß, wie sinnvoll Agroforstwirtschaft ist und wie man sparsam bewässert. Auch im Meer ist sie aktiv: Sie düngt die Ozeane und errichtet Energieinseln im Wasser. So bleibt's richtig cool auf unserem Planeten!",
+          "2": "Tom Techno ist der Superheld der Energiewende und Meister der Innovation. Er kombiniert E-Mobilität mit futuristischer Fusionsenergie und cleverem Engineering. Sein Ziel: Energieverbrauch runter – für eine nachhaltige Welt!",
+          "3": "Maxi Structure ist der Held der Infrastruktur. Er schafft die Basis für eine nachhaltige Welt mit grünen Oasen, unteridischen Verkehrssystemem oder fliegenden Kraftwerken. Selbst künstliche Wolken bekommt er hin. Für ihn ist nichts zu tief und nichts zu hoch: Er geht voran in eine energieeffiziente Zukunft!",
+          "4": "Material Girl, die coole Innovatorin der Materialforschung, kreiert bahnbrechende Lösungen gegen den Klimawandel. Mit künstlicher Photosynthese, thermochromatischen Materialien und selbstheilenden Batterien revolutioniert sie die Technik – und den Klimaschutz. Ihr Labor ist ein Spielplatz für molekulare Wunder."
+        }
+      }
+    },
+    "wait_teams": {
+      "title": "GRUPPEN CHECK-IN",
+      "subtitle": "Es geht weiter, sobald alle Gruppen eingecheckt haben.",
+      "group_caption": "GRUPPE",
+      "not_checked_in": "NOCH NICHT EINGECHECKT"
+    },
+    "scanning": {
+      "title": "DATEN ANS DASHBOARD!",
+      "subtitle": "Es geht weiter, sobald alle Gruppen ihre Daten gesendet haben.",
+      "group_caption": "GRUPPE"
+    },
+    "goodbye": {
+      "title": "DANKE, DASS IHR DABEI WART!",
+      "text": "Das war das Data Game des Mobilen Futuriums. Die Zukunft liegt in eurer Hand. Daten können euch helfen, sie besser zu verstehen. Und sie dann zu verändern. Das wird spannend!"
+    },
+    "details": {
+      "group_caption": "GRUPPE",
+      "hint": "Alle Werte sind in Prozent angegeben."
+    },
+    "ui": {
+      "next": "WEITER",
+      "cancel": "ABBRECHEN",
+      "confirm": "JA",
+      "confirmation_texts": {
+        "RESET": "Soll das Spiel neugestartet werden?",
+        "RESTART_SCAN": "Soll der Scanprozess gestartet werden?",
+        "GOODBYE": "Soll das Spiel beendet werden?"
+      }
+    }
+  }
+}

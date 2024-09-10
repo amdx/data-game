@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="dropdown_icon_open" transform="translate(-680 -48)">
+    <rect id="bg" width="48" height="48" transform="translate(680 96) rotate(-90)" fill="#1d1e20"/>
+    <path id="dropdown_icon" d="M720,64,704,80,688,64" fill="none" stroke="#bfd4ff" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

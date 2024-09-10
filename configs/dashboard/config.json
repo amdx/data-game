@@ -1,0 +1,13 @@
+{
+  "graphs": {
+    "colors": {
+      "time": "#25CCB8",
+      "cost": "#EBFFB8",
+      "efficiency": "#FF5D30"
+    },
+    "categories": ["time", "cost", "efficiency"]
+  },
+  "dotlottie": {
+    "wasmUrl": "/dotlottie/dotlottie-player.wasm"
+  }
+}

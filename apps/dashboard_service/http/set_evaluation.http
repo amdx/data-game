@@ -1,0 +1,9 @@
+### PUT request to set evaluation phase
+PUT http://127.0.0.1:6384/api/v1/session
+Content-Type: application/json
+
+{
+  "state": "EVALUATION"
+}
+
+###

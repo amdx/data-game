@@ -1,0 +1,19 @@
+{
+  "api_path": "/api/v1",
+  "show_fullscreen_prompt": true,
+  "disable_right_click": true,
+  "team_name_view": {
+    "max_team_name": 20
+  },
+  "scan_view": {
+    "scan_delay": 10
+  },
+  "graph_view": {
+    "time_color": "#25CCB8",
+    "cost_color": "#EBFFB8",
+    "efficiency_color": "#FF5D30"
+  },
+  "dotlottie": {
+    "wasmUrl": "/dotlottie/dotlottie-player.wasm"
+  }
+}

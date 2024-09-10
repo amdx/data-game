@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="reset_btn_down" transform="translate(-8 -2064)">
+    <circle id="button_bg" cx="32" cy="32" r="32" transform="translate(8 2064)" fill="#bfd4ff"/>
+    <g id="icon">
+      <path id="camera_btn" d="M53.179,2091.242a14.063,14.063,0,1,0,.491,7.968" fill="none" stroke="#121314" stroke-width="1"/>
+      <line id="Linie_20" data-name="Linie 20" x1="9.622" y1="1.711" transform="translate(43.597 2089.478)" fill="none" stroke="#121314" stroke-linecap="round" stroke-width="1"/>
+      <line id="Linie_21" data-name="Linie 21" y1="9.641" x2="1.598" transform="translate(53.218 2081.548)" fill="none" stroke="#121314" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

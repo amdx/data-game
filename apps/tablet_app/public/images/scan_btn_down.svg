@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136" viewBox="0 0 136 136">
+  <defs>
+    <filter id="card_number_btn_up" x="12.25" y="12.25" width="111.5" height="111.5" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.25" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="scan_btn_down" transform="translate(-1312 -968)">
+    <rect id="bounding_box" width="136" height="136" transform="translate(1312 968)" fill="none"/>
+    <g transform="matrix(1, 0, 0, 1, 1312, 968)" filter="url(#card_number_btn_up)">
+      <circle id="card_number_btn_up-2" data-name="card_number_btn_up" cx="52" cy="52" r="52" transform="translate(16 16)" fill="#bfd4ff"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1336 992)" fill="none" stroke="#1d1e20" stroke-width="12">
+      <circle cx="44" cy="44" r="44" stroke="none"/>
+      <circle cx="44" cy="44" r="38" fill="none"/>
+    </g>
+  </g>
+</svg>

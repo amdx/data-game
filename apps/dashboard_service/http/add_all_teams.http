@@ -1,0 +1,38 @@
+POST http://localhost:6384/api/v1/teams
+Content-Type: application/json
+
+{
+  "name": "foo the bar"
+}
+
+###
+POST http://localhost:6384/api/v1/teams
+Content-Type: application/json
+
+{
+  "name": "Bar baz"
+}
+
+###
+POST http://localhost:6384/api/v1/teams
+Content-Type: application/json
+
+{
+  "name": "Team 3"
+}
+
+###
+POST http://localhost:6384/api/v1/teams
+Content-Type: application/json
+
+{
+  "name": "Team 400"
+}
+
+###
+POST http://localhost:6384/api/v1/teams
+Content-Type: application/json
+
+{
+  "name": "Five by five"
+}

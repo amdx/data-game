@@ -1,0 +1,31 @@
+services:
+  backend:
+    build: apps/dashboard_service
+    volumes:
+      - ./configs/dashboard_service:/config
+    restart: always
+
+  dashboard:
+    build: apps/dashboard_app
+    volumes:
+      - ./configs/dashboard/config.json:/usr/share/nginx/html/dashboard/config.json:ro
+      - ./configs/dashboard/i18n.json:/usr/share/nginx/html/dashboard/i18n.json:ro
+    restart: always
+  
+  tablet:
+    build: apps/tablet_app
+    volumes:
+      - ./configs/tablet/config.json:/usr/share/nginx/html/tablet/config.json:ro
+      - ./configs/tablet/i18n.json:/usr/share/nginx/html/tablet/i18n.json:ro
+    restart: always
+
+  ingress:
+    image: nginx:1.27-bookworm
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./configs/ingress/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./configs/ingress/certificates:/etc/nginx/certificates:ro
+      - ./ingress_data/dotlottie:/usr/share/nginx/html/dotlottie:ro
+    restart: always

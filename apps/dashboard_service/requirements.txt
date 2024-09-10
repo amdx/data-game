@@ -1,0 +1,8 @@
+click
+fastapi
+httpx
+pydantic
+pydantic-settings
+ruamel.yaml
+uvicorn[standard]
+SQLAlchemy

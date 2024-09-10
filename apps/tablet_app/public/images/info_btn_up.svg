@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg68" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)" sodipodi:docname="button_menu_btn_up.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#27292B;}
+	.st2{fill:#BFD4FF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview70" inkscape:current-layer="svg68" inkscape:cx="47.953262" inkscape:cy="32.202532" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1371" inkscape:window-maximized="1" inkscape:window-width="2494" inkscape:window-x="66" inkscape:window-y="32" inkscape:zoom="10.697917" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<rect x="0" y="-15.9" class="st0" width="96" height="96"/>
+<image style="overflow:visible;opacity:0.2;enable-background:new    ;" width="112" height="112" id="Rechteck_26" xlink:href="2B5F4C7F1D2F25D3.png"  transform="matrix(1 0 0 1 -23.9749 -23.927)">
+</image>
+<rect id="btn_bg-2" x="0" y="0.1" class="st1" width="32" height="64"/>
+<circle id="button_bg" class="st1" cx="32" cy="32.1" r="32"/>
+<g>
+	<path class="st2" d="M31.5,22.8c-0.6,0-1.1-0.2-1.4-0.5c-0.3-0.3-0.5-0.7-0.5-1.3c0-0.5,0.2-1,0.5-1.3c0.3-0.3,0.8-0.5,1.4-0.5
+		c0.6,0,1,0.2,1.4,0.5c0.3,0.3,0.5,0.7,0.5,1.3c0,0.5-0.2,0.9-0.5,1.3C32.5,22.7,32.1,22.8,31.5,22.8z M30.3,43.3V26.5h2.4v16.8
+		H30.3z"/>
+</g>
+</svg>
